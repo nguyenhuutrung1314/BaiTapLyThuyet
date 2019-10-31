@@ -1,0 +1,13 @@
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\Bai1.csprojAssemblyReference.cache
+F:\1\BaiTH_Tuan2\Bai1\Bai1\bin\Debug\netstandard2.0\Bai1.deps.json
+F:\1\BaiTH_Tuan2\Bai1\Bai1\bin\Debug\netstandard2.0\Bai1.dll
+F:\1\BaiTH_Tuan2\Bai1\Bai1\bin\Debug\netstandard2.0\ref\Bai1.dll
+F:\1\BaiTH_Tuan2\Bai1\Bai1\bin\Debug\netstandard2.0\Bai1.pdb
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\PageListviewHoa.xaml.g.cs
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\Bai1.AssemblyInfoInputs.cache
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\Bai1.AssemblyInfo.cs
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\Bai1.dll
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\ref\Bai1.dll
+F:\1\BaiTH_Tuan2\Bai1\Bai1\obj\Debug\netstandard2.0\Bai1.pdb

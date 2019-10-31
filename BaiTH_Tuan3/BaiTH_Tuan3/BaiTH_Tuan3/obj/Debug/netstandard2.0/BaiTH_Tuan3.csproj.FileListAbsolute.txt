@@ -1,0 +1,17 @@
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\bin\Debug\netstandard2.0\BaiTH_Tuan3.deps.json
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\bin\Debug\netstandard2.0\BaiTH_Tuan3.dll
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\BaiTH_Tuan3.csprojAssemblyReference.cache
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\PageDSloaihoa.xaml.g.cs
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\PagThemLoaiHoa.xaml.g.cs
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\BaiTH_Tuan3.AssemblyInfoInputs.cache
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\BaiTH_Tuan3.AssemblyInfo.cs
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\bin\Debug\netstandard2.0\ref\BaiTH_Tuan3.dll
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\bin\Debug\netstandard2.0\BaiTH_Tuan3.pdb
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\BaiTH_Tuan3.dll
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\ref\BaiTH_Tuan3.dll
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\BaiTH_Tuan3.pdb
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\PageDShoa.xaml.g.cs
+F:\1\BaiTH_Tuan3\BaiTH_Tuan3\BaiTH_Tuan3\obj\Debug\netstandard2.0\PagThemHoa.xaml.g.cs

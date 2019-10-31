@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BaiTH_Tuan3.PageDShoa">
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker x:Name="picdsloai"
+              Title="Chọn Một Loại Hoa"
+              ItemsSource="{Binding Tenloai}"
+              ItemDisplayBinding="{Binding Tenloai}"
+              SelectedIndexChanged="Picdsloai_SelectedIndexChanged"
+              >
+
+            </Picker>
+            <ListView x:Name="lstds"
+               GroupDisplayBinding="{Binding TenLoai}"
+                   GroupShortNameBinding="{Binding TenLoai}"
+                   IsGroupingEnabled="true"
+              HasUnevenRows ="True"
+              SeparatorColor="BlueViolet"
+              >
+                <ListView.Header>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Danh Sách Hoa Theo Loại"
+               TextColor="Olive"
+               BackgroundColor="Red" />
+                    </StackLayout>
+                </ListView.Header>
+                <ListView.Footer>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="------"
+               TextColor="Gray"
+               BackgroundColor="Blue" />
+                    </StackLayout>
+                </ListView.Footer>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="2*"/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Source="{Binding Hinh}" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2"/>
+                                <Label Text="{Binding TenHoa}" Grid.Row="0" Grid.Column="1" 
+                   TextColor="BlueViolet"   Grid.ColumnSpan="2"/>
+                                <Label Text="Giá Bán" Grid.Column="1" Grid.Row="1"/>
+                                <Label Text="{Binding Gia}" Grid.Row="1" Grid.Column="2" />
+
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

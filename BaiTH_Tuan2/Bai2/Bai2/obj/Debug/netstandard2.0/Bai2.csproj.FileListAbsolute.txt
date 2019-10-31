@@ -1,0 +1,13 @@
+F:\1\BaiTH_Tuan2\Bai2\Bai2\bin\Debug\netstandard2.0\Bai2.deps.json
+F:\1\BaiTH_Tuan2\Bai2\Bai2\bin\Debug\netstandard2.0\Bai2.dll
+F:\1\BaiTH_Tuan2\Bai2\Bai2\bin\Debug\netstandard2.0\ref\Bai2.dll
+F:\1\BaiTH_Tuan2\Bai2\Bai2\bin\Debug\netstandard2.0\Bai2.pdb
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.csprojAssemblyReference.cache
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\PagelistviewGroup.xaml.g.cs
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.AssemblyInfoInputs.cache
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.AssemblyInfo.cs
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\XamlC.stamp
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.dll
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\ref\Bai2.dll
+F:\1\BaiTH_Tuan2\Bai2\Bai2\obj\Debug\netstandard2.0\Bai2.pdb
