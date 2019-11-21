@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewmode="clr-namespace:Baitaptuan4.ViewModels"
+             mc:Ignorable="d"
+             x:Class="Baitaptuan4.Views.PageInsetLoaihoa">
+    <ContentPage.BindingContext>
+        <viewmode:LoaihoaViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+		<RowDefinition Height="Auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Text="Tên loại" Grid.Row="0" Grid.Column="0"/>
+            <Entry Text="{Binding Loaihoa.Tenloai, Mode=TwoWay}" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <Button Text="Insert" VerticalOptions="Center" Grid.Row="1" Grid.Column="0" Command="{Binding AddLoaiHoa, Mode=TwoWay}"/>
+            <Button Text="Update" VerticalOptions="Center" Grid.Row="1" Grid.Column="1" Command="{Binding UpdateLoaiHoa, Mode=TwoWay}"/>
+            <Button Text="Delete" VerticalOptions="Center" Grid.Row="1" Grid.Column="2" Command="{Binding DeleteLoaiHoa, Mode=TwoWay}"/>
+            <ListView x:Name="lstloaihoa" VerticalOptions="Center"
+                      ItemsSource="{Binding Loaihoalist}" SelectedItem="{Binding Loaihoa, Mode=TwoWay}"
+                      Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="3">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Loaihoalist}" Detail="{Binding Tenloai, Mode=TwoWay}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
